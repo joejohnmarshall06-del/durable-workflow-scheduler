@@ -1,0 +1,19 @@
+{
+  "name": "durable-workflow-scheduler",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "In-memory durable workflow scheduler model with retries, exponential backoff, dependencies, and deterministic ticking.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "infrastructure",
+    "developer-tools",
+    "system-design",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
